@@ -13,7 +13,11 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
+<<<<<<< HEAD
   font-family: "Fira Sans Condensed", sans-serif;
+=======
+  font-family: 'Fira Sans Condensed', sans-serif;
+>>>>>>> 60a13c00551d1f280468920dbeaf1a56ae99a617
   font-size: 18px;
   background-color: #1b1919;
 }
@@ -36,6 +40,7 @@ ul,
 ol {
   list-style: none;
 }
+<<<<<<< HEAD
 
 .visually-hidden {
   clip: rect(0 0 0 0);
@@ -327,3 +332,5 @@ fieldset {
 .content__card-link:active {
   background-color: #545050;
 }
+=======
+>>>>>>> 60a13c00551d1f280468920dbeaf1a56ae99a617
